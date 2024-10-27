@@ -21,8 +21,3 @@ This project is intended for learning purposes. The implementations may not be e
 1. Clone the repository.
 2. Install the required packages.
 3. Run the `ft.py` script to generate and analyze audio signals.
-
-## Future Work
-
-- Implement FFT for signals and images.
-- Enhance visualization of frequency components.
